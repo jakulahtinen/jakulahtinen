@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakulahtinen&label=Profile%20views&color=0e75b6&style=flat" alt="jakulahtinen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakulahtinen" alt="jakulahtinen" /></a> </p>
-
 - 🔭 I’m currently working on [HAU-project](https://github.com/jakulahtinen/hau-frontend)
 
 - 🌱 I’m currently learning **.NET, C#, TypeScript, and more technologies**
 
 - 📫 How to reach me **jakulahtinen@msn.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/00e6a80825b870aa/EQ_OGwUvhSlMjVbl4l1rSSYBDnc9P_4Vo3NRW1CEfH4UjA?e=Jkbkdb](https://1drv.ms/b/c/00e6a80825b870aa/EQ_OGwUvhSlMjVbl4l1rSSYBDnc9P_4Vo3NRW1CEfH4UjA?e=Jkbkdb)
+- 📄 My resume [https://1drv.ms/b/c/00e6a80825b870aa/EQ_OGwUvhSlMjVbl4l1rSSYBDnc9P_4Vo3NRW1CEfH4UjA?e=Jkbkdb](https://1drv.ms/b/c/00e6a80825b870aa/EQ_OGwUvhSlMjVbl4l1rSSYBDnc9P_4Vo3NRW1CEfH4UjA?e=Jkbkdb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
